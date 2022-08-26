@@ -2417,7 +2417,7 @@ const h1 = async u => {
             case 1:
             case 2:
                 return o && !R ? d(W, {
-                    disabled: !0,
+                    disabled: 0,
                     type: "primary",
                     size: "large",
                     className: "launchpadSell_buy_btn",
